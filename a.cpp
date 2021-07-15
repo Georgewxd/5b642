@@ -2,6 +2,7 @@
 
 void func()
 {
+	cout<<"womeiyct";
 }
 
 int main()
