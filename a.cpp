@@ -4,6 +4,7 @@
 
 void func()
 {
+	cout<<"womeiyct";
 	// sdsadasdas
 }
 
