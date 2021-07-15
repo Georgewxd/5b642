@@ -2,6 +2,7 @@
 
 void func()
 {
+	// sdsadasdas
 }
 
 int main()
