@@ -1,5 +1,7 @@
 #include <iostream>
 
+///wew
+
 void func()
 {
 	// sdsadasdas
